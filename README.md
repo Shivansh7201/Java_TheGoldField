@@ -40,7 +40,7 @@ Follow us on social media and stay up to date with the latest Java developments:
 
 - Twitter: [@JavaTheGoldField](https://twitter.com/JavaTheGoldField)
 - Facebook: [JavaTheGoldField](https://www.facebook.com/JavaTheGoldField)
-- LinkedIn: [JavaTheGoldField](https://www.linkedin.com/company/JavaTheGoldField)
+- LinkedIn: [@Shivansh Gupta](https://www.linkedin.com/in/shivansh-gupta-2a339b227/)
 
 ## Show Your Support
 
