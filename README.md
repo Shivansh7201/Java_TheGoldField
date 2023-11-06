@@ -46,7 +46,7 @@ Follow us on social media and stay up to date with the latest Java developments:
 
 If you find Java: The Gold Field valuable, give us a ⭐️ star to show your support!
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/Java_TheGoldField?style=social)](https://github.com/YourUsername/Java_TheGoldField/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Shivansh7201/Java_TheGoldField?style=social)](https://github.com/Shivansh7201)
 
 Java: The Gold Field - Where Java Shines Bright! ✨
 
