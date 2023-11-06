@@ -38,8 +38,8 @@ Welcome to Java: The Gold Field, your one-stop repository for all things Java! ð
 
 Follow us on social media and stay up to date with the latest Java developments:
 
-- Twitter: [@JavaTheGoldField](https://twitter.com/JavaTheGoldField)
-- Facebook: [JavaTheGoldField](https://www.facebook.com/JavaTheGoldField)
+- Twitter: [@Shivansh7201](https://twitter.com/shivansh7201)
+- Facebook: [@Shivansh Gupta](https://www.facebook.com/profile.php?id=100090219367529)
 - LinkedIn: [@Shivansh Gupta](https://www.linkedin.com/in/shivansh-gupta-2a339b227/)
 
 ## Show Your Support
