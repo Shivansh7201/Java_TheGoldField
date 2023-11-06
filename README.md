@@ -1,7 +1,7 @@
 # Java_TheGoldField
 
 <p align="center">
-  <img src="C:\Users\HP\OneDrive\Documents\lumenor fundamentals\images.png" alt="Java_TheGoldField Logo" width="200">
+  <img src="https://media.istockphoto.com/id/518002738/photo/java-button-on-computer-keyboard.webp?b=1&s=170667a&w=0&k=20&c=JLfZo-jB94h7gw6ia8SdkxzVwEHVTvnIx-S_uoYlpr4=" alt="Java_TheGoldField Logo" width="200">
 </p>
 
 # Welcome to Java: The Gold Field! 🚀
